@@ -1,0 +1,16 @@
+section {
+    width: 100%;
+    
+}
+
+form {
+    padding: 40px;
+    margin: 10px;
+    border: 2px solid#E36B48;
+    width: 500px;
+    margin: auto;
+}
+
+button {
+    margin: auto;
+}

@@ -1,0 +1,18 @@
+
+<section class="page-section" id="services">
+  
+
+
+
+      <div class="container searchContainer">
+  <div class="container__item">
+    <form #f="ngForm" (ngSubmit)="onSubmit(f)" novalidate >
+      <input  class="form__field" placeholder="Search Job Title" name="searchText" ngModel required #searchText="ngModel"/>
+      <button  class="btn btn--primary btn--inside uppercase">Submit</button>
+    </form>
+  </div>
+  
+</div>
+
+</section>
+
