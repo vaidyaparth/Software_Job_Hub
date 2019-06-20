@@ -1,5 +1,5 @@
 # Software_Job_Hub
-![](images/logo.png)
+![](images/logo.png)<br>
 The motivation behind this application was to create a user friendly web application for software Engineers to search jobs all over the world. We are using github jobs api to fetch all the jobs. Candidates can also add their interview experience and read other experiences. 
 
 # Steps to run the application
