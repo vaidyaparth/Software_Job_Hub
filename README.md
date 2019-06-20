@@ -20,21 +20,25 @@ $ ng serve --open<br>
 # Screenshots
 ![](images/1.png)
 <br>
+<br>
 ![](images/2.png)
+<br>
 <br>
 ![](images/3.png)
 <br>
+<br>
 ![](images/4.png)
 <br>
+<br>
 ![](images/5.png)
-<br>
+<br><br>
 ![](images/6.png)
-<br>
+<br><br>
 ![](images/7.png)
-<br>
+<br><br>
 ![](images/8.png)
-<br>
+<br><br>
 ![](images/Screenshot%20(249).png)
-<br>
+<br><br>
 ![](images/9.png)
 
